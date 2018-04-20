@@ -18,5 +18,10 @@ Learn basic networking, how the internet works and http,ping
 # HTTP vs Ping
   ### HTTP ###
   HTTP makes the request to the server through `Get` or `post` request and gets the response back to the server.
+  
+  ![HTTP](images/http.png)
+  
   ### Ping
   Instead ping speaks to the operating system where the server presents.its just like an `echo` command from the server operating system.
+  
+  ![ping](images/ping.png)
